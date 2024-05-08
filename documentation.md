@@ -1,16 +1,3 @@
-**Steps to Use:**
-1. Save the following code into a file, e.g., `documentation_workflow.md`.
-2. Install `reveal-md` if you haven't:
-   ```bash
-   npm install -g reveal-md
-   ```
-3. Run the presentation:
-   ```bash
-   reveal-md documentation_workflow.md --theme white
-   ```
-
-### Markdown for `reveal.js` Slide Deck
-```markdown
 ---
 title: "Optimized Documentation Workflow"
 subtitle: "Using Wiki.js, OpenAPI, and Inline Documentation"
